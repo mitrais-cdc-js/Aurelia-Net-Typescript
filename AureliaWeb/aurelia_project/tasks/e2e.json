@@ -1,0 +1,5 @@
+﻿{
+  "name": "e2e",
+  "description": "Runs all e2e tests and reports the results.",
+  "flags": []
+}
